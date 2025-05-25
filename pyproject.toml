@@ -1,0 +1,8 @@
+[project]
+name = "anthropic-mcp-connector"
+version = "0.1.0"
+description = "Using Anthropic's new MCP connector."
+readme = "README.md"
+dependencies = [
+    "anthropic",
+]

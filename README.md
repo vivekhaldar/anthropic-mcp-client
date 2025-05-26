@@ -4,9 +4,9 @@ This repository contains the example code for the YouTube video: [Integrate MCP 
 
 ## Resources and Links
 
-Please add the resources and links from the YouTube video description here.
+- [Previous video on using remote MCP servers](https://www.youtube.com/watch?v=ozvewQC2vxI), using [fast-agent](https://fast-agent.ai/) as an MCP client.
+- [Anthropic's API documentation for the MCP connector.](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
 
-This is a brief description of the project.
 
 ## Code Description
 
